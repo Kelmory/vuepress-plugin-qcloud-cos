@@ -1,0 +1,1 @@
+/* Collect image files from the folders */

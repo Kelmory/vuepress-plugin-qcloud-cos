@@ -1,0 +1,13 @@
+{
+  "name": "vuepress-plugin-qcloud-cos",
+  "version": "0.1.0",
+  "description": "Host images onto Tencent Cloud COS.",
+  "main": "index.js",
+  "repository": "https://github.com/Kelmory/vuepress-plugin-qcloud-cos",
+  "author": "kelmory",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "cos-nodejs-sdk-v5": "^2.9.21"
+  }
+}
